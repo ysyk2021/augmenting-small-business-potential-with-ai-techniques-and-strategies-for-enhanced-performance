@@ -1,5 +1,4 @@
-Types of AI Used for Performance Enhancement
-====================================================================================================================
+
 
 Artificial Intelligence (AI) has the potential to transform small business operations and drive business growth by enabling machines to perform tasks that would typically require human intelligence. In this chapter, we will explore the types of AI used for performance enhancement in small businesses.
 

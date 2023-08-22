@@ -1,5 +1,4 @@
-Chapter 6: Measuring AI Impact on Small Business Performance
-============================================================
+
 
 Measuring the impact of artificial intelligence (AI) on small business performance is essential to assess the return on investment (ROI) and identify areas for improvement and refinement. In this chapter, we will explore how small businesses can measure the impact of AI on their performance and continuously adapt and improve their AI approach.
 

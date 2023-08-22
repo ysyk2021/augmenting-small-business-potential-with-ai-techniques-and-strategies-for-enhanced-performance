@@ -1,5 +1,4 @@
-Assessing the effectiveness of AI for small business performance enhancement
-==========================================================================================================================================
+
 
 Small businesses can gain significant benefits from implementing artificial intelligence (AI) systems. However, to evaluate the success of AI implementation, it is essential to measure its impact on business performance. In this chapter, we will explore how to assess the effectiveness of AI for small business performance enhancement.
 

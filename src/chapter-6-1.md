@@ -1,5 +1,4 @@
-Overview of AI applications for small business performance enhancement
-==============================================================================================================================
+
 
 Small businesses can leverage the power of artificial intelligence (AI) to optimize their operations and increase their competitiveness. In this chapter, we will explore an overview of AI applications for small business performance enhancement.
 
