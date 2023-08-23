@@ -1,5 +1,4 @@
 
-
 Overview of AI tools and technologies for small businesses
 ----------------------------------------------------------
 
