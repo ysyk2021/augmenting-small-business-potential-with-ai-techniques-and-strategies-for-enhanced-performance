@@ -13,3 +13,7 @@ Throughout this book, we'll emphasize the importance of developing ethical and r
 By the end of this book, you'll have a deeper understanding of how AI can be used to improve small business performance and growth. You'll also have learned practical strategies for implementing AI into your business processes to make them more efficient and effective. Whether you're a small business owner, manager, or entrepreneur, "Augmenting Small Business Potential with AI" is the book for you.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
