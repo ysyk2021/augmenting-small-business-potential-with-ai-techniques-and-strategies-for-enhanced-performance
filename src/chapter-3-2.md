@@ -1,5 +1,4 @@
-Chapter: Evaluating Data Availability and Quality
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we focus on the critical task of evaluating data availability and quality for small businesses looking to leverage AI techniques and strategies to augment their potential and enhance performance. Proper assessment of data is crucial to ensure the accuracy, relevance, and completeness necessary for effective AI implementation.
 

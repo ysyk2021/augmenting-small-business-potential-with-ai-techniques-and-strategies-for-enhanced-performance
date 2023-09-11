@@ -1,5 +1,4 @@
-Chapter: Legal and Regulatory Considerations for AI Implementation in Small Businesses
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the important legal and regulatory considerations that small businesses need to take into account when implementing AI technologies. As AI becomes more prevalent in business operations, it is crucial to navigate the legal landscape to ensure compliance, protect user rights, and mitigate potential risks.
 

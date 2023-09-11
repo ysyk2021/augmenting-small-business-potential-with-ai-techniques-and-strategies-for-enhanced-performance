@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Performance Enhancement
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter outlines the various types of AI (Artificial Intelligence) techniques used for performance enhancement in small businesses. Understanding the different AI types and their applications can help small businesses identify the most suitable AI technologies for their specific needs.
 

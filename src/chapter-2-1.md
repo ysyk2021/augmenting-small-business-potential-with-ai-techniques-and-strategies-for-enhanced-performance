@@ -1,5 +1,4 @@
-Chapter: Definition of AI
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter provides an in-depth definition of AI (Artificial Intelligence) and its key elements. Understanding the fundamentals of AI is essential for small businesses looking to leverage AI techniques and strategies to enhance their performance.
 

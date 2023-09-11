@@ -1,5 +1,4 @@
-Chapter: Overview of AI Applications for Small Business Performance Enhancement
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter provides an overview of various AI applications that can be utilized by small businesses to enhance their performance and achieve competitive advantage. Understanding these applications enables small businesses to harness the power of AI technologies and strategies for improved operational efficiency, customer experience, and decision-making.
 
